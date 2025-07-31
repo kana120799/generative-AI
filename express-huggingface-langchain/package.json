@@ -1,0 +1,15 @@
+{
+  "name": "express-huggingface-langchain",
+  "version": "1.0.0",
+  "description": "Express.js server with Hugging Face and LangChain integration for advanced NLP workflows",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express", "huggingface", "langchain", "nlp", "ai", "rag", "chains"],
+  "author": "",
+  "license": "ISC"
+}
+
